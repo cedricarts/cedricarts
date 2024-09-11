@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cedricarts
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 👀 I’m interested in software engineering, game dev and AI
+- 🌱 I’m currently learning PYTHON, C# and JAVASCRIPT 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me cedricmnisi01@gmail.com 
 
