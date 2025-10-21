@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning Python, C#, Flutter (Dart), React, JavaScript and C++.
 - 💞️ I’m looking to collaborate on anything relating to game development and Web design
 - 📫 How to reach me: cedricmnisi01@gmail.com 
-- Live Projects: https://play.google.com/store/apps/details?id=com.nas.spacedash
+- Space Dash: https://play.google.com/store/apps/details?id=com.nas.spacedash
+- Death Tag (new): https://play.google.com/store/apps/details?id=com.synergy.deathtag
 - Horizon Synergy: https://horizon-synergy.github.io
 - My portfolio: https://cedricarts.github.io/
 
