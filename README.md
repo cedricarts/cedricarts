@@ -12,8 +12,8 @@
 
 ## Platforms & Apps
  <p align="left">
-  <img src="images/hs-banner.webp" width="200" />
-  <img src="images/studx.png" width="175"/>
+  <a href="https://horizon-synergy.github.io"><img src="images/hs-banner.webp" width="200" /></a>
+  <a href="studx-hs.netlify.app"><img src="images/studx.png" width="175"/></a>
   <img src="images/artkeep-banner.png" width="200"/> <br>
   <img src="images/moose.png" width="125"/>
   <img src="images/spacedash.png" width="125"/>
