@@ -22,7 +22,7 @@
 
 ### Languages & Frameworks
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/unity/unity-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/unity/unity-original.svg" style="filter: invert(1);" width="60"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon/icons/csharp/csharp-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon/icons/react/react-original.svg" width="60"/>
@@ -35,7 +35,7 @@
 
 ###  Tools & Platforms
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/github/github-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/github/github-original.svg" style="filter: invert(1);" width="60"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon/icons/firebase/firebase-plain.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon/icons/vscode/vscode-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon/icons/visualstudio/visualstudio-original.svg" width="60"/>
@@ -45,9 +45,9 @@
 
 ###  AI Tools
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/openai.svg" width="60" color="white"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/anthropic.svg" width="60" color="white"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/google.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/openai.svg" width="60" style="filter: invert(1);"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/anthropic.svg" width="60" style="filter: invert(1);"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/google.svg" width="60" style="filter: invert(1);"/>
 </p>
 <!---
 cedricarts/cedricarts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
