@@ -11,9 +11,9 @@
 - My portfolio: https://cedricarts.github.io/
 
  <p align="center">
-  <img src="images/hs-banner.webp" width="300"/>
-  <img src="images/studx.png" width="300"/>
-  <img src="images/artkeep-banner.png" width="100"/> <br>
+  <img src="images/hs-banner.webp" width="150" style="border-radius: 10px;"/>
+  <img src="images/studx.png" width="150"/>
+  <img src="images/artkeep-banner.png" width="150"/> <br>
   <a href="https://github.com/cedricarts/"><img src="https://www.readmecodegen.com/api/social-icon?name=css%2Cjavascript%2Cpython%2Cunity&shape=circle&animation=shake&reverseBackground=true&link=https%3A%2F%2Fgithub.com%2Fcedricarts%2F" alt="css-javascript-python-unity" /></a> <br>
   <img src="images/moose.png" width="100"/>
   <img src="images/spacedash.png" width="100"/>
