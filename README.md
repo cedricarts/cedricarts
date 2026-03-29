@@ -12,21 +12,21 @@
 
 ## Platforms & Apps
  <p align="left">
-  <img src="images/hs-banner.webp" width="150" />
+  <img src="images/hs-banner.webp" width="200" />
   <img src="images/studx.png" width="175"/>
-  <img src="images/artkeep-banner.png" width="150"/> <br>
-  <img src="images/moose.png" width="100"/>
-  <img src="images/spacedash.png" width="100"/>
-  <img src="images/pixelor.png" width="100"/> <br>
+  <img src="images/artkeep-banner.png" width="200"/> <br>
+  <img src="images/moose.png" width="125"/>
+  <img src="images/spacedash.png" width="125"/>
+  <img src="images/pixelor.png" width="125"/>
 </p>
 
 ## Tech Stack
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/react/react-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/html5/html5-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/css3/css3-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/nodejs/nodejs-original.svg" width="60"/>
 </p>
 <!---
 cedricarts/cedricarts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
