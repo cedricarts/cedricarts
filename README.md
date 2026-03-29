@@ -13,6 +13,7 @@
  <p align="center">
   <img src="images/studx.png" width="300"/>
   <img src="images/spacedash.png" width="300"/>
+  <img src="https://www.readmecodegen.com/api/social-icon?name=css%2Cjavascript%2Cpython%2Cunity&size=64&color=%23ffffff" alt="css-javascript-python-unity" />
 </p>
 <!---
 cedricarts/cedricarts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
