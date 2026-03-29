@@ -11,9 +11,9 @@
 - My portfolio: https://cedricarts.github.io/
 
  <p align="center">
-  <img src="images/studx.png" width="300"/>
-  <img src="images/spacedash.png" width="200"/>
-  <a href="https://github.com/cedricarts/"><img src="https://www.readmecodegen.com/api/social-icon?name=css%2Cjavascript%2Cpython%2Cunity&shape=circle&animation=shake&reverseBackground=true&link=https%3A%2F%2Fgithub.com%2Fcedricarts%2F" alt="css-javascript-python-unity" /></a>
+  <img src="images/studx.png" width="300"/> <br>
+  <img src="images/spacedash.png" width="200"/> <br>
+  <a href="https://github.com/cedricarts/"><img src="https://www.readmecodegen.com/api/social-icon?name=css%2Cjavascript%2Cpython%2Cunity&shape=circle&animation=shake&reverseBackground=true&link=https%3A%2F%2Fgithub.com%2Fcedricarts%2F" alt="css-javascript-python-unity" /></a> <br>
 </p>
 <!---
 cedricarts/cedricarts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
