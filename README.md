@@ -11,7 +11,8 @@
 - My portfolio: https://cedricarts.github.io/
 
  <p align="center">
-  <img src="images/studx.png" width="600"/>
+  <img src="images/studx.png" width="300"/>
+  <img src="images/spacedash.png" width="600"/>
 </p>
 <!---
 cedricarts/cedricarts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
