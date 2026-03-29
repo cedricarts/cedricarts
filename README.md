@@ -10,7 +10,7 @@
 - Horizon Synergy: https://horizon-synergy.github.io
 - My portfolio: https://cedricarts.github.io/
 
-## Platforms & Apps
+## Platforms & Apps I Built
  <p align="left">
   <a href="https://horizon-synergy.github.io"><img src="images/hs-banner.webp" width="200" /></a>
   <a href="https://studx-hs.netlify.app"><img src="images/studx.png" width="200"/></a>
@@ -27,6 +27,38 @@
   <img src="https://cdn.jsdelivr.net/npm/devicon/icons/html5/html5-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon/icons/css3/css3-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon/icons/nodejs/nodejs-original.svg" width="60"/>
+</p>
+
+### Languages & Frameworks
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/unity/unity-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/dot-net/dot-net-original.svg" width="40"/>
+</p>
+
+---
+
+###  Tools & Platforms
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/firebase/firebase-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/visualstudio/visualstudio-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/unity/unity-original.svg" width="40"/>
+</p>
+
+---
+
+###  AI Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/openai.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/anthropic.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/google.svg" width="40"/>
 </p>
 <!---
 cedricarts/cedricarts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
