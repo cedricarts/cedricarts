@@ -10,7 +10,9 @@
 - Horizon Synergy: https://horizon-synergy.github.io
 - My portfolio: https://cedricarts.github.io/
 
-![Space Dash](images/spacedash.png) ![StudX](images/studx.png)
+ <p align="center">
+  <img src="images/studx.png" width="600"/>
+</p>
 <!---
 cedricarts/cedricarts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to view your changes.
