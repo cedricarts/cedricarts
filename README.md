@@ -10,14 +10,23 @@
 - Horizon Synergy: https://horizon-synergy.github.io
 - My portfolio: https://cedricarts.github.io/
 
- <p align="center">
-  <img src="images/hs-banner.webp" width="150" style="border-radius: 10px;"/>
-  <img src="images/studx.png" width="150"/>
+## Platforms & Apps
+ <p align="left">
+  <img src="images/hs-banner.webp" width="150" />
+  <img src="images/studx.png" width="175"/>
   <img src="images/artkeep-banner.png" width="150"/> <br>
-  <a href="https://github.com/cedricarts/"><img src="https://www.readmecodegen.com/api/social-icon?name=css%2Cjavascript%2Cpython%2Cunity&shape=circle&animation=shake&reverseBackground=true&link=https%3A%2F%2Fgithub.com%2Fcedricarts%2F" alt="css-javascript-python-unity" /></a> <br>
   <img src="images/moose.png" width="100"/>
   <img src="images/spacedash.png" width="100"/>
   <img src="images/pixelor.png" width="100"/> <br>
+</p>
+
+## Tech Stack
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
 </p>
 <!---
 cedricarts/cedricarts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
