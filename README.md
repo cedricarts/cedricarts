@@ -46,7 +46,11 @@
 
 ###  AI Tools
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/openai.svg" width="60" style="filter: invert(1);"/>
+  
+  <span style="background:#fff; padding:6px; border-radius:8px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/openai.svg" width="30"/>
+  </span>
+
   <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/anthropic.svg" width="60" style="filter: invert(1);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="60" />
 </p>
