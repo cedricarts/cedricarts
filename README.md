@@ -40,6 +40,7 @@
   <img src="https://cdn.jsdelivr.net/npm/devicon/icons/vscode/vscode-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon/icons/visualstudio/visualstudio-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon/icons/unity/unity-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="60"/>  
 </p>
 
 
