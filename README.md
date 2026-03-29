@@ -47,7 +47,7 @@
 <p>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/openai.svg" width="60" style="filter: invert(1);"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/anthropic.svg" width="60" style="filter: invert(1);"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/google.svg" width="60" style="filter: invert(1);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="60" />
 </p>
 <!---
 cedricarts/cedricarts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
