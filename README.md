@@ -46,12 +46,12 @@
 
 ###  AI Tools
 <p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/openai/ffffff" width="60"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/openai.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/anthropic.svg" width="60" style="filter: invert(1);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="60" />
 </p>
 
-
+![Claude](https://iconscout.com/free-3d-icon/free-claude-logo-render-3d-icon_14165282)
 <!---
 cedricarts/cedricarts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to view your changes.
