@@ -1,4 +1,4 @@
-# Cedric Arts
+## Njabulo Cedric Mnisi (Cedric Arts)
 
 - 👋 Hi, I’m @cedricarts
 - 👀 I’m interested in software engineering, app, game, and web development
