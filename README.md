@@ -8,7 +8,8 @@
 - Space Dash: https://play.google.com/store/apps/details?id=com.nas.spacedash
 - Death Tag (new): https://play.google.com/store/apps/details?id=com.synergy.deathtag
 - Horizon Synergy: https://horizon-synergy.github.io
-- My portfolio: https://cedricarts.github.io/
+- My portfolio: https://cedricarts.netlify.app
+- Food Experiments: https://cedricarts.github.io/food-experiments/
 
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/d88851b5-9d91-4072-b956-57b28f5e9fe3/thumbnail" >
