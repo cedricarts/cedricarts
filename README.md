@@ -10,6 +10,10 @@
 - Horizon Synergy: https://horizon-synergy.github.io
 - My portfolio: https://cedricarts.github.io/
 
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/d88851b5-9d91-4072-b956-57b28f5e9fe3/thumbnail" >
+</p>
+
 ### Platforms & Apps I Built
  <p align="left">
   <a href="https://horizon-synergy.github.io"><img src="images/hs-banner.webp" width="200" /></a>
