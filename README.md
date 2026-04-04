@@ -14,7 +14,7 @@
  `I enjoy cooking as much as programming. Both are experiments at their core—different tools, same process of iteration and discovery.`
 
 <p align="left">
-  <img src="https://api.boot.dev/v1/users/public/d88851b5-9d91-4072-b956-57b28f5e9fe3/thumbnail" width="150px">
+  <img src="https://api.boot.dev/v1/users/public/d88851b5-9d91-4072-b956-57b28f5e9fe3/thumbnail" width="250px">
 </p>
 
 ### Platforms & Apps I Built
