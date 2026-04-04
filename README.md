@@ -10,6 +10,9 @@
 - Horizon Synergy: https://horizon-synergy.github.io
 - My portfolio: https://cedricarts.netlify.app
 - Food Experiments: https://cedricarts.github.io/food-experiments/
+- ```
+  I love cooking as much as I love programming, it's experiments in two different areas, but fundamentally similar
+  ```
 
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/d88851b5-9d91-4072-b956-57b28f5e9fe3/thumbnail" >
