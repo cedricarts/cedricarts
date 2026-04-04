@@ -10,10 +10,7 @@
 - Horizon Synergy: https://horizon-synergy.github.io
 - My portfolio: https://cedricarts.netlify.app
 - Food Experiments: https://cedricarts.github.io/food-experiments/
-- `
-  I enjoy cooking as much as programming.
-  Both are experiments at their core—different tools, same process of iteration and discovery.
-  `
+ `I enjoy cooking as much as programming. Both are experiments at their core—different tools, same process of iteration and discovery.`
 
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/d88851b5-9d91-4072-b956-57b28f5e9fe3/thumbnail" >
