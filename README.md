@@ -57,6 +57,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="60" />
 </p>
 
+### Socials
+<p>
+  <a href="https://www.youtube.com/@Cedric_Arts">
+    <h2> Cedric Arts </h2>
+  </a>
+</p>
+
 <!---
 cedricarts/cedricarts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to view your changes.
