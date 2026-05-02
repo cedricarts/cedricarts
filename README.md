@@ -60,7 +60,7 @@
 ### Socials
 <p>
   <a href="https://www.youtube.com/@Cedric_Arts">
-    <img src="images/CA-Point.png">
+    <img src="images/CA-Point.png" width="200">
   </a>
 </p>
 
