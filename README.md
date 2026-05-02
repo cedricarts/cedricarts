@@ -59,9 +59,7 @@
 
 ### Socials
 <p>
-  <a href="https://www.youtube.com/@Cedric_Arts">
-    <h2> Cedric Arts </h2>
-  </a>
+  <a href="https://www.youtube.com/@Cedric_Arts">Cedric Arts</a>
 </p>
 
 <!---
