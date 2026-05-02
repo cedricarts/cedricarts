@@ -59,7 +59,9 @@
 
 ### Socials
 <p>
-  <a href="https://www.youtube.com/@Cedric_Arts">Cedric Arts</a>
+  <a href="https://www.youtube.com/@Cedric_Arts">
+    <img src="images/CA-Point.png">
+  </a>
 </p>
 
 <!---
