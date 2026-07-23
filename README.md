@@ -65,7 +65,11 @@
 </p>
 
 ### Itch Portfolio || Games
-<iframe frameborder="0" src="https://itch.io/embed/4689682?linkback=true&amp;border_width=5&amp;bg_color=4f6781&amp;fg_color=fffffe&amp;link_color=000000&amp;border_color=6e86a0" width="560" height="175"><a href="https://cedric-arts.itch.io/protocol-x">Protocol X by Cedric Arts</a></iframe>
+<p>
+  <iframe frameborder="0" src="https://itch.io/embed/4689682?linkback=true&amp;border_width=5&amp;bg_color=4f6781&amp;fg_color=fffffe&amp;link_color=000000&amp;border_color=6e86a0" width="560" height="175"><a href="https://cedric-arts.itch.io/protocol-x">Protocol X by Cedric Arts</a>
+  </iframe>
+</p>
+
 
 <!---
 cedricarts/cedricarts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
